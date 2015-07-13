@@ -1,1 +1,3 @@
 edit at github
+而网络优化设备的主要实现的功能……真心没多少，多数都是依靠“缓存”
+edit at local

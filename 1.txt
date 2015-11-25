@@ -1,3 +1,16 @@
-edit at github
-而网络优化设备的主要实现的功能……真心没多少，多数都是依靠“缓存”
-edit at local
+Disallow: /tag/
+Disallow: /*/comment-page-1
+Disallow: /author/
+Disallow: /*/feed
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /feed/
+
+Disallow: /cgi-bin/
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /*?
+Allow: /*.html$
+Allow: /wp-content/uploads

@@ -1,6 +1,5 @@
 # hello_git
-Only for git and github study . May GIT be with you.
+Only for git and github study.
+May Git be with you.
 
-
-
-No use for 
+201511251702

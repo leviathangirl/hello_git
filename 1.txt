@@ -1,16 +1,1 @@
-Disallow: /tag/
-Disallow: /*/comment-page-1
-Disallow: /author/
-Disallow: /*/feed
-Disallow: /wp-admin/
-Disallow: /wp-includes/
-Disallow: /trackback/
-Disallow: /feed/
-
-Disallow: /cgi-bin/
-Disallow: /wp-content/plugins
-Disallow: /wp-content/cache
-Disallow: /wp-content/themes
-Disallow: /*?
-Allow: /*.html$
-Allow: /wp-content/uploads
+1
